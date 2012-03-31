@@ -1,0 +1,20 @@
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=space_war
+base_path=/home/martin/eget_skit/geany/space_war
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=0
+FILE_NAME_0=170;C++;0;16;1;1;0;/home/martin/eget_skit/geany/space_war/ParticleEngine.cpp;0;4
+FILE_NAME_1=0;C++;0;16;1;1;0;/home/martin/eget_skit/geany/space_war/Particle.cpp;0;4
